@@ -16,7 +16,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Credits
 
-[Clean Blog](https://github.com/yajra/clean-blog) was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+[Clean Blog](https://github.com/yajra/clean-blog) was originally created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 ## Copyright and License
 
