@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
+To begin using this template, follow the following steps:
 - [Download the latest release on Start Bootstrap](https://github.com/yajra/clean-blog)
 - Copy `assets` folder to `public/themes/clean-blog` directory.
 - Copy `clean-blog` folder to `themes/frontend` directory.
