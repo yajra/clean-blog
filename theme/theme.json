@@ -1,0 +1,20 @@
+{
+  "name": "Clean Blog",
+  "theme": "clean-blog",
+  "type": "frontend",
+  "version": "1.0.0",
+  "description": "A clean blog theme for YajraCMS.",
+  "date": "1 June 2016",
+  "author": {
+    "name": "Arjay Angeles",
+    "email": "aqangeles@gmail.com",
+    "website": "http://yajrabox.com"
+  },
+  "positions": [
+    "left",
+    "right",
+    "top",
+    "navigation",
+    "breadcrumb"
+  ]
+}
