@@ -15,6 +15,7 @@
     "right",
     "top",
     "navigation",
-    "breadcrumb"
+    "breadcrumb",
+    "footer"
   ]
 }
