@@ -1,0 +1,14 @@
+{
+    "name": "yajra/clean-blog",
+    "description": "A clean blog theme for YajraCMS.",
+    "type": "yajracms-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arjay Angeles",
+            "email": "aqangeles@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
