@@ -12,12 +12,12 @@ To begin using this template, follow the following steps:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/yajra/clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://github.com/yajra/clean-blog).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/yajra/clean-blog/issues) here on GitHub
 
 ## Credits
 
-[Clean Blog](https://github.com/yajra/clean-blog) was originally created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+[Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog) was originally created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/yajra/clean-blog/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Arjay Angeles. Code released under the [MIT](https://github.com/yajra/clean-blog/blob/master/LICENSE) license.
