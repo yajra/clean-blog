@@ -6,10 +6,10 @@
         </h3>
     </a>
     <div class="post-meta">
-        Posted by: <a href="#">{{ $article->present()->author }}</a> on {{ $article->present()->datePublished }}
+        Posted by: <a href="#">{{ $article->present()->author }}</a> {{ $article->present()->datePublished }}
 
         @if($article->param('show_hits'))
-            <small class="label label-info">
+            <small class="label label-success pull-right">
                 <i class="fa fa-eye"></i> Hits: {{ $article->present()->hits }}
             </small>
         @endif
